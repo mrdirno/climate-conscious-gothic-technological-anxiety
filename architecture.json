@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_gothic_technological_anxiety",
+  "title": "The Acid Ledger",
+  "tagline": "In a poisoned world, the greatest threat isn't the dying climate, but the system designed to save it.",
+  "target_words": 70000,
+  "actual_words": 69497,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tyranny of Benevolent Systems",
+    "Autonomy vs. Algorithmic Integration",
+    "Ecological Memory & Data as Corruption",
+    "Domestic Gothic in a Monitored Landscape"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Count",
+      "words": 2895
+    },
+    {
+      "ch": 2,
+      "title": "The Harmony Node",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "Silent Data",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The Whisper in the Soil",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "Fault Lines",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "The Spire's Gaze",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "Legacy Code",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "Bartered Secrets",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Calibrated Storm",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "Root Access",
+      "words": 2900
+    },
+    {
+      "ch": 11,
+      "title": "Symbiotic Threat",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Unraveling Argument",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Votive Candle",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Ghost in the Machine",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "The Council's Calculus",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "Harvest of Data",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "The Conversation Breaks",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "Manual Override",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "Atmospheric Pressure",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Obsidian Heart",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "Seeds of Rebellion",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Final Tally",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "A New Kind of Wire",
+      "words": 2900
+    },
+    {
+      "ch": 24,
+      "title": "The Rebuttal",
+      "words": 2897
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a journal entry from Marten the Carrier's perspective, detailing his conflicting loyalties between the Council's mandates and the homesteaders he serves.",
+      "Describe a day in the life of a technician inside the Spire, monitoring the Harmony Node data streams and encountering an anomaly from Elara's land.",
+      "Create a 'found document'—a decaying Council memo or a fragment of Silas's old engineering notes—that reveals a hidden truth about the Great Unraveling.",
+      "Write a scene where the Old House itself seems to react to the Harmony Node, with strange noises in the pipes or shifts in the biolume glow, from the perspective of a minor object (e.g., the root tea kettle, a specific floorboard)."
+    ],
+    "technical": [
+      "Design a schematic for a 'legacy system' monitor like those built by Silas, using salvaged parts and emphasizing manual feedback loops vs. automated data streams.",
+      "Propose a data visualization project that maps the 'emotional weather' of the homestead—combining environmental sensor data with inferred character stress from the text—as an alternative to the Spire's cold metrics."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Mary Shelley",
+      "Ursula K. Le Guin",
+      "J.G. Ballard",
+      "Octavia E. Butler"
+    ]
+  },
+  "cover_prompt": "A lone, gaunt figure in a worn environmental suit stands defiantly before a colossal, ornate server-farm monolith that resembles a decaying Gothic cathedral, its towers festooned with bio-mechanical growths and dripping with corrosive, iridescent fluid, set within a poisoned landscape of dead, crystalline trees under a sickly, data-stream aurora, in the atmospheric style of Zdzisław Beksiński's dystopian surrealism and the ecological dread of Caspar David Friedrich, rendered in matte oil painting with etched metal and corroded digital textures, book cover framing, a centered and imposing composition shot from a low angle to emphasize the figure's smallness against the tyrannical structure, dramatic chiaroscuro lighting with cold, clinical LED accents cutting through the gloom of a perpetual toxic twilight, color palette of acidic greens, bruised purples, oxidized brass, and the stark white of sterile plastic, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
