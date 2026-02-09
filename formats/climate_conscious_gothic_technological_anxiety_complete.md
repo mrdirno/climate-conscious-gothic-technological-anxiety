@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The rain on the roof of the Old House was not a sound, but a count. A soft, insistent tally of every drop the sky had wrung from the poisoned air. Elara Vane lay in the dark, listening to the metric. *Plink-tap-plink. One-two-three.* Acid-tainted, each one. You could taste it on the wind before the storm hit, a metallic tang like a bitten tongue. The Old House, all bleached clapboard and stubborn angles, drank it anyway. Its gutters, swollen with a century of paint, chattered the runoff into the cisterns below. *Four-five-six.* Water was memory here. Every barrel was a ledger.
@@ -100,6 +102,8 @@ She stood, her knees damp from the earth. The wind shifted, carrying a new scent
 
 The house, behind her, seemed to hold its breath.
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The node’s first report was a whisper in the walls.
@@ -187,6 +191,8 @@ Elara walked to the eastern window. Outside, in the nascent grey light, she coul
 It wasn’t a monitor. It was a seed.
 
 And it was germinating.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
